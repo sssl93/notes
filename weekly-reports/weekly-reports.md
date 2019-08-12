@@ -7,6 +7,7 @@
 |人员|本周完成情况|下周计划|备注|
 |----|------------|--------|----|
 |梁兵| 1. 增强generic-exporter <br/>2. 优化boc-prometheus自定义弹性伸缩文档 <br/>3. 实现ovs controller demo | 1. 设计基于fabric的ovs controller，以及相关API <br/>2. 定制ovs默认流表  |  |
+|梁兵| 1. 增强generic-exporter <br/>2. 优化boc-prometheus自定义弹性伸缩文档 <br/>3. 实现ovs controller demo | 1. 设计基于fabric的ovs controller，以及相关API <br/>2. 定制ovs默认流表  |  |
 
 
 ## 20190805-20190809
